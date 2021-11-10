@@ -1,0 +1,10 @@
+
+int do_math(int value) {
+    int val2 = value * 10
+    return val2
+}
+
+int value = 10
+
+int val3 = do_math(value)
+
