@@ -1,10 +1,4 @@
 
-int do_math(int value) {
-    int val2 = value * 10
-}
-
-
-
-int value = 10
-do_math(value)
-
+def foo(a b c)
+    a*a + b*b;
+    c*c + a*a + b*b

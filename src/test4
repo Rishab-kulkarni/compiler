@@ -1,0 +1,10 @@
+
+int square(int a) {
+    int b = a*a
+    return b
+}
+
+
+int val = 10
+int sq = square(val)
+
