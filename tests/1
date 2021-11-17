@@ -1,0 +1,9 @@
+double fun(int one, double two) {
+    double three = 20
+    return three
+}
+
+
+int one = 1;
+double two = 2;
+double value = fun(one, two);

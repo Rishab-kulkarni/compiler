@@ -1,0 +1,9 @@
+int function(int a) [
+    int hello = 2
+    int hi = 4
+    return hello + hi
+]
+
+int a = 10
+int b = function(a)
+int c = a + b

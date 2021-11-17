@@ -31,7 +31,7 @@ extern "C" int yywrap() {}
 "-"                             return TOKEN(TMINUS);
 "*"                             return TOKEN(TMUL);
 "/"                             return TOKEN(TDIV);
-.                               { printf("Unknown token!"); yyterminate(); }
+.                               { printf("%s is an unknown token!\n", yytext); yyterminate(); }
 %%
 
 

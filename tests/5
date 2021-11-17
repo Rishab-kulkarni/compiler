@@ -1,0 +1,6 @@
+int fun(int value)
+    int my_value = 3
+    return my_value
+
+int temp = 10
+int one = fun(temp)

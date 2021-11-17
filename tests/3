@@ -1,0 +1,10 @@
+int add(int val1, int val2) { 
+    int val3 = val1 + val2
+    return val3
+}
+
+int num1 = 5;
+int num2 = 6;
+
+int num3 = add(num1, num2);
+
