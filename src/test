@@ -1,4 +1,0 @@
-
-def foo(a b c)
-    a*a + b*b;
-    c*c + a*a + b*b
